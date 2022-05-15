@@ -1,0 +1,3 @@
+pip install tkcalendar
+pip install openpyxl
+pip install fpdf
